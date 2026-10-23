@@ -24,8 +24,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jvdeboa3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvdeboa3&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jvdeboa3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvdeboa3&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
