@@ -1,7 +1,7 @@
 ### 🛠️ Tools, Engines & Version Control
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,jetbrains,godot,git,github" height="48" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,godot,git,github" height="48" alt="Tools" />
   <img src="https://cdn.simpleicons.org/aseprite" height="48" width="48" alt="Aseprite" />
 </div>
 
