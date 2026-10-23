@@ -28,14 +28,14 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Jvdeboa3&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="165" alt="Stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jvdeboa3&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" height="165" alt="Top languages" />
-
-<br>
+  <a href="https://github.com/jvdeboa3">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvdeboa3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvdeboa3&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
 ### 🐍 My Contributions
 
