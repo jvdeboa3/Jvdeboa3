@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Heitorrfv&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="165" alt="Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=Jvdeboa3&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="165" alt="Stats" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jvdeboa3&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" height="165" alt="Top languages" />
 
 <br>
@@ -41,8 +41,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvdeboa3/jvdeboa3/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvdeboa3/jvdeboa3/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jvdeboa3/Jvdeboa3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jvdeboa3/Jvdeboa3/output/github-contribution-grid-snake.svg">
     <img alt="github-snake" src="https://raw.githubusercontent.com/jvdeboa3/jvdeboa3/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
