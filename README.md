@@ -1,3 +1,5 @@
+# Hey there! 👋
+
 🤖 **Programmer on an FTC (FIRST Tech Challenge) Robotics Team**  
 💻 Developer passionate about robotics, game development, automation, and high-performance systems.
 
@@ -20,8 +22,29 @@
 ### 🛠️ Tools, Engines & Version Control
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
-  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
-  <img src="
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,jetbrains,godot,git,github" height="48" alt="Tools" />
+  <img src="https://cdn.simpleicons.org/aseprite" height="48" width="48" alt="Aseprite" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+### 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
